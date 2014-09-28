@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="cmvtConnectionString-Web.config Connection String" description="cmvtConnectionString Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:peftt06b2a.database.windows.net,1433;Database=cvmt;User ID=cvmt@peftt06b2a;Password=Password1;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Akash\\documents\\visual\ studio\ 2012\\Projects\\cvmt\\cvmt\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='cmvtConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

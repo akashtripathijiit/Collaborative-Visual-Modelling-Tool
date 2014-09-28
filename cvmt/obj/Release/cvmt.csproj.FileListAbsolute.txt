@@ -1,0 +1,5 @@
+c:\users\akash\documents\visual studio 2012\Projects\cvmt\cvmt\bin\cvmt.dll
+c:\users\akash\documents\visual studio 2012\Projects\cvmt\cvmt\bin\cvmt.pdb
+c:\users\akash\documents\visual studio 2012\Projects\cvmt\cvmt\obj\Release\cvmt.dll
+c:\users\akash\documents\visual studio 2012\Projects\cvmt\cvmt\obj\Release\cvmt.pdb
+C:\Users\Akash\documents\visual studio 2012\Projects\cvmt\cvmt\obj\Release\cvmt.csprojResolveAssemblyReference.cache
